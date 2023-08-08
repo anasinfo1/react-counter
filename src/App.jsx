@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <h1>COUNTER</h1>
+    <h1>MY COUNTER</h1>
       <UseState/>
     </>
   )
