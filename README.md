@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 ### You can run this counter from here :
-https://react-counter-a9qrlnh5r-anasinfo1.vercel.app/
+https://react-counter-lake-two.vercel.app/
